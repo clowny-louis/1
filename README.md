@@ -14,4 +14,9 @@ this is a test repository😇
 5 add a secret and name it "TAILSCALE_AUTH_KEY"
 
 6 from this repository download the .yml file
-locate at 1/.github/workflows/ or
+locate at 1/.github/workflows/ or this link " https://github.com/clowny-louis/1/blob/main/.github/workflows/main.yml "
+
+7 add the yml file to your repository by uploading the file to your repository or copying the code
+
+# enjoy!
+thats it if your github account gets banned then make a new ine using outlook
